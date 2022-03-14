@@ -19,7 +19,7 @@
 * [Deployed Heroku Link](https://infinite-woodland-67580.herokuapp.com/)
 
 ## Installation
-- npm start 
+- npm install 
 
 ## Usage
 - npm start
