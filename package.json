@@ -20,11 +20,11 @@
   "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lite-server": "^2.6.1",
     "mongodb": "^4.4.1",
-    "mongoose": "^5.5.15",
-    "morgan": "^1.9.1",
+    "mongoose": "^5.13.14",
+    "morgan": "^1.10.0",
     "serve": "^13.0.2"
   },
   "devDependencies": {},
