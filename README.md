@@ -18,8 +18,12 @@
 
 * [Deployed Heroku Link](https://infinite-woodland-67580.herokuapp.com/)
 
-## Installation
+## NPM Package Installation
 - npm install 
+- compression
+- express
+- mongoose
+- morgan
 
 ## Usage
 - npm start
